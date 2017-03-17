@@ -1,10 +1,6 @@
-<h1 align="center">
-  <br>
-    :bulb: great-talks
-  <br>
-</h1>
+# :bulb: great-talks
 
-Some talks I find inspiring and enlightening.
+> Some talks I find inspiring and enlightening.
 
 - **[`Real Software Engineering – Glenn Vanderburg`](https://www.youtube.com/watch?v=NP9AIUT9nos)**
 - **[`Inventing on Principle – Bret Victor`](https://www.youtube.com/watch?v=PUv66718DII)**
