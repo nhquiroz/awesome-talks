@@ -11,3 +11,7 @@
 - **[`New experiments in self-teaching – Sugata Mitra`](https://www.youtube.com/watch?v=dk60sYrU2RU)**
 - **[`The computer revolution hasn't happened yet – Alan Kay`](https://www.youtube.com/watch?v=oKg1hTOQXoY)**
 - **[`Simple Made Easy – Rich Hickey`](https://www.infoq.com/presentations/Simple-Made-Easy)**
+- **[`What the heck is the event loop anyway? – Philip Roberts`](https://www.youtube.com/watch?v=8aGhZQkoFbQ)**
+- **[`Learning Functional Programming with JavaScript – Anjana Vakil`](https://www.youtube.com/watch?v=e-5obm1G_FY)**
+- **[`Inventing on Principle – Bret Victor`](https://www.youtube.com/watch?v=EGqwXt90ZqA)**
+- **[`What We Actually Know About Software Development, and Why We Believe It’s True – Greg Wilson`](https://vimeo.com/9270320)**
